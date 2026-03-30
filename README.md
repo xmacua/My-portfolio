@@ -15,7 +15,7 @@ During this project, I practiced creating multiple web pages, organizing files i
 
 ## Screenshot
 
-![Project Screenshot](<img width="1834" height="966" alt="image" src="https://github.com/user-attachments/assets/c41e71ab-2faf-41aa-b2d7-56e69474510f" />)
+![Project Screenshot](http://127.0.0.1:5500/index.html>)
 
 
 ---
