@@ -15,7 +15,8 @@ https://github.com/xmacua/iyf-s10-week-02-xmacua.git
 
 ## Screenshot
 
-![Project Screenshot](http://127.0.0.1:5500/index.html>)
+![Project Screenshot](<img width="1896" height="923" alt="image" src="https://github.com/user-attachments/assets/32125b58-18bc-44c4-b20d-9d51566d98f8" />
+)
 
 
 ---
